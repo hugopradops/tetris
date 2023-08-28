@@ -12,7 +12,6 @@ code {
     monospace;
 }
 
-// Cp 1 
 :root {
   --bg-color: rgba(150, 150, 150, 1);
 
@@ -46,7 +45,6 @@ code {
   --border-width: 5px;
 }
 
-//CP 2
 /* Colors */
 .color-0 {
   background-color: var(--color-0);
@@ -80,7 +78,6 @@ code {
   background-color: var(--color-7);
 }
 
-//Cp 3
 /* Grid Square */
 .grid-square {
   border-style: solid;
